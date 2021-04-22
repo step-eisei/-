@@ -7,9 +7,9 @@
 3.------  
 
 - ファイル構造  
-　Main  
-  &nbsp;|-README.md  
-  &nbsp;|-Arduino  
-  &nbsp;&nbsp;|-README.md  
-  &nbsp;|-Fusion360  
-  &nbsp;&nbsp;|-README.md  
+Main  
+  &emsp;|-README.md  
+  &emsp;|-Arduino  
+  &emsp;&emsp;|-README.md  
+  &emsp;|-Fusion360  
+  &emsp;&emsp;|-README.md  
