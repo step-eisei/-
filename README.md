@@ -2,6 +2,7 @@
 新入生教育として使います。
 # STEPとは
 
+![image](https://user-images.githubusercontent.com/68739954/115715618-478f9e00-a3b3-11eb-8ae3-b702702adc88.png)
 # 体験入班向けプロジェクト
 - 学習順  
 1.------  
