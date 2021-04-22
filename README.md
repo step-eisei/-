@@ -7,9 +7,9 @@
 3.------  
 
 - ファイル構造
-　Main
-  |-README.md
-  |-Arsuino
-    |-README.md
-  |-Fusion360
-    |-README.md
+　Main  
+  |-README.md  
+  |-Arsuino  
+    |-README.md  
+  |-Fusion360  
+    |-README.md  
