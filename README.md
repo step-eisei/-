@@ -6,10 +6,10 @@
 2.------  
 3.------  
 
-- ファイル構造
+- ファイル構造  
 　Main  
-  |-README.md  
-  |-Arsuino  
-    |-README.md  
-  |-Fusion360  
-    |-README.md  
+  &nbsp;|-README.md  
+  &nbsp;|-Arduino  
+  &nbsp;&nbsp;|-README.md  
+  &nbsp;|-Fusion360  
+  &nbsp;&nbsp;|-README.md  
